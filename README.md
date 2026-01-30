@@ -3,7 +3,7 @@
 ### Data Scientist | Business Analytics | Machine Learning | NLP Specialist
 ---
 
-Hi, welcome to my portfolio! I share my journey, projects, and passion for solving real-world problems with data. 🌟
+Explore my journey and projects! I’m driven by a passion for turning raw data into meaningful solutions for real-world problems. 🌟
 
 🌌 **About Me**
 
@@ -21,14 +21,6 @@ With a background in **teaching, research, and cross-cultural collaboration**, I
 | **ML / AI** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) |
 | **Data Viz** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
-
----
-
-## 📊 GitHub Activities
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KokoMukruYves&show_icons=false&theme=dark&hide_border=true" alt="Koko's Stats" />
-</p>
 
 ---
 
