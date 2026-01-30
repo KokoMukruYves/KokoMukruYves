@@ -1,6 +1,6 @@
 # 😎 👋 Hi, I'm Koko Mukuru Yves!
 
-### Data Scientist | Business Analytics | Machine Learning | NLP Specialist
+#### Data Scientist | Business Analytics | Machine Learning | NLP Specialist
 ---
 
 Hi, welcome to my portfolio! I share my journey, projects, and passion for solving real-world problems with data. 🌟
