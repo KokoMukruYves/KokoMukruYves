@@ -1,4 +1,4 @@
-  # 😎 👋 Hi, I'm Koko Mukuru Yves!
+# 😎 👋 Hi, I'm Koko Mukuru Yves!
 
 ### Data Scientist | Business Analytics | Machine Learning | NLP Specialist
 ---
@@ -27,13 +27,17 @@ With a background in **teaching, research, and cross-cultural collaboration**, I
 ## 📊 GitHub Activities
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KokoMukruYves&show_icons=true&theme=transparent&hide_border=true" alt="Koko's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokoMukruYves&layout=compact&theme=transparent&hide_border=true" alt="Koko's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KokoMukruYves&show_icons=false&theme=dark&hide_border=true" alt="Koko's Stats" />
 </p>
 
 ---
 
 ## 🔗 Connect with me
 
-[![LinkedIn](
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
 
+---
+<p align="center">
+  <i>"Turning data into actionable intelligence, one project at a time."</i>
+</p>
