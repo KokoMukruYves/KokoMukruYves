@@ -1,6 +1,6 @@
 # 😎 👋 Hi, I'm Koko Mukuru Yves!
 
-### Data Scientist/Analyst || Business Analyst || Business Intelligence Developer ||Predictive Analysis || AI Expert || Human Ressource Analyst || Financial Analyst || Customer Insight Analyst || Digital Analyst ||
+### Data Scientist/Analyst | Business Analyst | Business Intelligence Developer ||Predictive Analysis | AI Expert | Human Ressource Analyst | Financial Analyst | Customer Insight Analyst | Digital Analyst 
 ---
 
 Explore my journey and projects! I’m driven by a passion for turning raw data into meaningful solutions for real-world problems. 🌟
