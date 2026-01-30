@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**KokoMukruYves/KokoMukruYves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 😎 👋 Hi, I'm Koko Mukuru Yves!
 
 ### Data Scientist | Business Analytics | Machine Learning | NLP Specialist
