@@ -31,5 +31,5 @@ With a background in **teaching, research, and cross-cultural collaboration**, I
 
 ---
 <p align="center">
-  <i>"Turning data into actionable intelligence, one project at a time."</i>
+  <i>"Turning data into actionable insights, one project at a time."</i>
 </p>
